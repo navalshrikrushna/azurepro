@@ -1,0 +1,9 @@
+{
+	"name": "bwt-fact",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "60b47b6f-e517-4b0f-aed2-6b167524169c",
+		"tenantId": "9f7203a9-5806-4ce5-9310-43301f07ff13"
+	}
+}
